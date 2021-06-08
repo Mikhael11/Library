@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-size: 120%;
+    background: white;
+    background-image: url("https://cdn.pixabay.com/photo/2015/06/08/15/11/typewriter-801921_1280.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.9;
+}
